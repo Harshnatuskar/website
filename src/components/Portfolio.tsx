@@ -1,6 +1,7 @@
 import React from 'react';
 import PortfolioItem from './PortfolioItem';
 import portfolio from '../data/portfolio';
+import ui_showcase from '../data/ui_showcase';
 
 function Portfolio(){
     return (
@@ -12,7 +13,16 @@ function Portfolio(){
                         title={project.title}
                         stack={project.stack}
                     />
-                ))}
+                ))} 
+                
+                {ui_showcase.map(project =>(
+                    <PortfolioItem
+                    imgUrl={project.imgUrl}
+                        title={project.title}
+                        stack={project.stack}
+                    />
+                ))
+                }
             </div>
         </div>
     )
