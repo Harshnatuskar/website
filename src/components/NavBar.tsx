@@ -1,4 +1,5 @@
 import React from "react";
+import { Navigate } from "react-router-dom";
 import Home from "../pages/Home";
 import Read from "../pages/Read";
 import Random from "../pages/Random";
@@ -14,9 +15,12 @@ function NavBar() {
       </nav>
 
       <Routes>
-        <Route path="/home" element={<Home />} />
+      <Route path="/" element={<Navigate to="/home" />} /> 
+      <Route path="/home" element={<Home />} />
         <Route path="/read" element={<Read />} />
         <Route path="/random" element={<Random />} />
+        <Route path="/" element={<Navigate to="/home" />} />
+            
       </Routes>
     </BrowserRouter>
   );
