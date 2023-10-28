@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'; 
 import NavBar from './components/NavBar'; 
+import Home from './pages/Home';
 
 function App() {
   const [theme, setTheme] = useState<'dark' | 'light' | null>(null);
@@ -70,6 +71,7 @@ function App() {
       <div className="bg-white dark:bg-stone-900 text-stone-900 dark:text-stone-300 min-h-screen font-inter">
        
       <NavBar />
+      <Home />
         
       </div>
     </>
