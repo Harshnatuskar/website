@@ -1,22 +1,13 @@
 export default[
     {
-        title:'Command line tool',
+        title:'Evaluate',
         imgUrl:'/assets/black.png',
-        stack:['HTML','CSS','Javascript']
+        stack:['React','Reaflow']
     },
     {
-        title:'Calculator',
+        title:'Sakura Mochi',
         imgUrl:'/assets/black.png',
-        stack:['React']
+        stack:['JUCE' ]
     },
-    {
-        title:'Markdown app',
-        imgUrl:'/assets/black.png',
-        stack:['React']
-    },
-    {
-        title:'Random Quote generator',
-        imgUrl:'/assets/black.png',
-        stack:['React']
-    },
+
 ]

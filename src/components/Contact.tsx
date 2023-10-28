@@ -1,30 +1,26 @@
- /*
-interface ContactButtonProps {
-  onTap: OnTapFunction;
-}
+import React from 'react';
 
-function ContactButton({ onTap }: ContactButtonProps) {
-  const [tooltipText, setTooltipText] = useState('Email');
+const Contact: React.FC = () => {
+  const emailId = 'harshnatuskar10@example.com';
 
-  const handleClick = () => {
-    onTap();
-    setTooltipText('Copied!');
-    setTimeout(() => setTooltipText('Email'), 2000); // Reset tooltip after 2 seconds
+  const copyToClipboard = () => {
+    navigator.clipboard.writeText(emailId).then(() => {
+      alert('Email ID copied to clipboard!');
+    }).catch((err) => {
+      console.error('Error copying to clipboard:', err);
+    });
   };
 
   return (
-    <button
-      type="button"
-      onClick={handleClick}
-      className='mx-auto text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-black dark:bg-slate-300 dark:text-black drop-shadow-md relative overflow-hidden'
-    >
-      {tooltipText}
-    </button>
+    <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
+      <button onClick={copyToClipboard} className="no-underline hover:underline rounded-sm bg-grey-500 active:bg-violet-700 focus:outline-none focus:ring focus:ring-grey-100">
+        Contact
+      </button>
+    </div>
   );
-}
+};
 
-const ContactButtonWithoutToast: WithoutToastFunction = withoutToast(ContactButton);
+export default Contact;
 
-export default ContactButtonWithoutToast;
 
-*/
+ 
