@@ -10,7 +10,7 @@ function NavBar() {
     <BrowserRouter>
       <nav className="text-center pt-5  ">
         <NavLink to="/home" className="hover:underline onactive:underline">Home</NavLink> |
-        <NavLink to="/read" className="hover:underline onactive:underline" >  Reading </NavLink> |
+        <NavLink to="/read" className="hover:underline onactive:underline" >  Bookshelf </NavLink> |
         <NavLink to="/random" className="hover:underline onactive:underline" >  Random</NavLink>
       </nav>
 

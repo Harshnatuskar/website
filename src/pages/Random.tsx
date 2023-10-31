@@ -8,10 +8,10 @@ function Random(){
             <h1 className='text-3xl md:text-7xl mb-1 mb:mb-3 font-medium dark:text-white'>Random</h1> 
             <br />
             <h2 className='text-base max-w-xl mb-6 font-bold'>Here are some of my favourate quotes</h2>
-            <section className="max-w-lg mx-auto ">
+            <section className="max-w-xl mx-auto text-left">
 
             <blockquote >
-               <p >Nothing will make you happier than ego an death.</p>
+               <p >Nothing will make you happier than an ego death.</p>
                <cite>-Sahil Lavingia</cite>
             </blockquote>
             <br />
@@ -23,42 +23,42 @@ function Random(){
             <br />
 
             <blockquote>
-                <h3>You get what anybody gets - you get a lifetime. No more. No less.</h3>
+                <p>You get what anybody gets - you get a lifetime. No more. No less.</p>
                 <cite>-Neil Gaiman</cite>
             </blockquote>
             <br />
 
             <blockquote>
-                <h3>When you look at the greatest artists and creators, they have this ability to start over that nobody else does.</h3>
-                <cite>-Naval Ravikanth</cite>
+                <p>When you look at the greatest artists and creators, they have this ability to start over that nobody else does.</p>
+                <cite>-Naval Ravikant</cite>
             </blockquote>
             <br />
 
             <blockquote>
-                <h3>If you keep learning all the time you have a huge advantage.</h3>
+                <p>If you keep learning all the time you have a huge advantage.</p>
                 <cite>-Charlie Munger</cite>
             </blockquote>
             <br />
 
             <blockquote>
-                <h3>The first principle is that you must not fool yourself and you are the easiest person to fool.</h3>
+                <p>The first principle is that you must not fool yourself and you are the easiest person to fool.</p>
                 <cite>-Richard Feymann</cite>
             </blockquote>
             <br />
 
             <blockquote>
-                <h3>Hard Choices, easy life. Easy choices, hard life.</h3>
+                <p>Hard Choices, easy life. Easy choices, hard life.</p>
                 <cite>-Jerzy Gregorek</cite>
             </blockquote> 
+            <br />
+
+            <blockquote>
+                <p>“Someday” is a disease that will take your dreams to the grave with you.</p>
+                <cite>-Timothy Ferriss</cite>
+            </blockquote>
             <br /><br />
 
-            <h2 className='font-bold'>Here are some of my favourate essays:</h2>
-            <br />
-            <section className='text-base'> 
-                <p ><a className="no-underline hover:underline" href="https://charlieholtz.substack.com/p/charlies-guide-to-life">Charlie Munger's Guide to Life </a><a className="no-underline hover:underline" href="https://www.charlieholtz.com/">-Charlie Holtz</a></p>
-                <p ><a className="no-underline hover:underline" href="https://levels.io/contact/">Why I'm unreachable and maybe you should be too </a><a className="no-underline hover:underline" href="https://www.levels.io">-Pieter Levels</a></p> 
-                <p ><a className="no-underline hover:underline" href="https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short">The days are long ,but the decades are short </a><a className="no-underline hover:underline" href="https://blog.samaltman.com/">-Sam Altman</a></p> 
-            </section>
+             
              
                 
             </section>
