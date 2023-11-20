@@ -9,5 +9,10 @@ export default[
         imgUrl:'/assets/black.png',
         stack:['JUCE' ]
     },
+    {
+        title:'Life in dots',
+        imgUrl:'/assets/black.png',
+        stack:['Svelte' ]
+    },
 
 ]

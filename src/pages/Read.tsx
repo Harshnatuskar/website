@@ -28,6 +28,8 @@ function Read(){
             <h4 className="ml-4">Advice from worldclass athletes,writers,VC's you name it.</h4>
             <h3>⬥ The Name of the Wind  -Patrick Rothfuss</h3>
             <h4 className="ml-4">The prose , storyline and characters are so well crafted. I have read it multiple times and each time i find something new in it.</h4>
+            <h3>⬥ Berserk -Kentaro Miura</h3>
+            <h4 className="ml-4">Storytelling at its peak .Illustrations with depth and details</h4>
             <h3>⬥ The Wise Man's Fear -Patrick Rothfuss</h3>
             <h4 className="ml-4">2nd part of the king chronicles series, the story telling is as good as the first part.</h4>
             <h3>⬥ Mistborn Triology -Brandon Sanderson</h3>
