@@ -56,9 +56,9 @@ function Read(){
             <h2 className='font-bold'>Here are some of my favourate essays:</h2>
             <br />
             <section className='text-base'> 
-                <p ><a className="no-underline hover:underline" href="https://charlieholtz.substack.com/p/charlies-guide-to-life">Charlie Munger's Guide to Life </a><a className="no-underline hover:underline" href="https://www.charlieholtz.com/">-Charlie Holtz</a></p>
-                <p ><a className="no-underline hover:underline" href="https://levels.io/contact/">Why I'm unreachable and maybe you should be too </a><a className="no-underline hover:underline" href="https://www.levels.io">-Pieter Levels</a></p> 
-                <p ><a className="no-underline hover:underline" href="https://blog.samaltman.com/value-is-created-by-doing">Value is created by doing </a><a className="no-underline hover:underline" href="https://blog.samaltman.com/">-Sam Altman</a></p> 
+                <p ><a className="no-underline hover:underline" href="https://charlieholtz.substack.com/p/charlies-guide-to-life" target="_blank">Charlie Munger's Guide to Life </a><a className="no-underline hover:underline" href="https://www.charlieholtz.com/">-Charlie Holtz</a></p>
+                <p ><a className="no-underline hover:underline" href="https://levels.io/contact/" target="_blank">Why I'm unreachable and maybe you should be too </a><a className="no-underline hover:underline" href="https://www.levels.io">-Pieter Levels</a></p> 
+                <p ><a className="no-underline hover:underline" href="https://blog.samaltman.com/value-is-created-by-doing" target="_blank">Value is created by doing </a><a className="no-underline hover:underline" href="https://blog.samaltman.com/">-Sam Altman</a></p> 
             </section>
           </section>
           
