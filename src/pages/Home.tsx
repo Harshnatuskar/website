@@ -1,7 +1,6 @@
 import React from "react"; 
 import Intro from "../components/Intro"; 
-import Portfolio from "../components/Portfolio";
-import Footer from "../components/Footer";
+import Portfolio from "../components/Portfolio"; 
 import Contact from "../components/Contact";
 
 
@@ -12,8 +11,7 @@ function Home(){
         <>
             <Intro />  
             <Portfolio />  
-            <Contact />
-            <Footer />
+            <Contact /> 
         </>
     );
          

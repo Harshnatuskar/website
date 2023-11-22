@@ -6,10 +6,11 @@ function Read(){
         <h2 className='text-base max-w-xl mb-6 font-bold'>Here are some books that i loved reading:</h2>
           <section className="max-w-xl mx-auto text-left">  
              
+             
             <h3>⬥ The Alamanac of Naval Ravikant -Eric Jorgenson</h3>
             <h4 className="ml-4">If i could only read a single non-fiction book for the rest of my life this would be it</h4>
             <h3>⬥ Mastery -Robert Greene</h3>
-            <h4 className="ml-4">I go back to this book every month or so .Has stories about great people and how they autodidacted in their lives.</h4>
+            <h4 className="ml-4">The author discusses the process of achieving mastery in particular field, through examples of great historical people.</h4>
             <h3>⬥ If truth be told -Om Swami</h3> 
             <h4 className="ml-4">Mindblowing</h4>
             <h3>⬥ Courage is Calling -Ryan Holiday</h3>
@@ -57,7 +58,7 @@ function Read(){
             <section className='text-base'> 
                 <p ><a className="no-underline hover:underline" href="https://charlieholtz.substack.com/p/charlies-guide-to-life">Charlie Munger's Guide to Life </a><a className="no-underline hover:underline" href="https://www.charlieholtz.com/">-Charlie Holtz</a></p>
                 <p ><a className="no-underline hover:underline" href="https://levels.io/contact/">Why I'm unreachable and maybe you should be too </a><a className="no-underline hover:underline" href="https://www.levels.io">-Pieter Levels</a></p> 
-                <p ><a className="no-underline hover:underline" href="https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short">The days are long ,but the decades are short </a><a className="no-underline hover:underline" href="https://blog.samaltman.com/">-Sam Altman</a></p> 
+                <p ><a className="no-underline hover:underline" href="https://blog.samaltman.com/value-is-created-by-doing">Value is created by doing </a><a className="no-underline hover:underline" href="https://blog.samaltman.com/">-Sam Altman</a></p> 
             </section>
           </section>
           
