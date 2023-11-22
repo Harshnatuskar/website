@@ -18,6 +18,7 @@ const Contact: React.FC = () => {
   </button>
   <a  className='no-underline hover:underline rounded-sm bg-grey-500 active:bg-violet-700 focus:outline-none focus:ring focus:ring-grey-100' href='https://github.com/Harshnatuskar'>Github</a>
   <a  className='no-underline hover:underline rounded-sm bg-grey-500 active:bg-violet-700 focus:outline-none focus:ring focus:ring-grey-100' href='https://www.behance.net/harshnatuskar'>Behance</a>
+  <a  className='no-underline hover:underline rounded-sm bg-grey-500 active:bg-violet-700 focus:outline-none focus:ring focus:ring-grey-100' href=' '>Airchat</a>
 </div>
 
   );

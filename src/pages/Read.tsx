@@ -2,7 +2,7 @@ import React from "react";
 function Read(){
     return ( 
         <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
-        <h1 className='text-3xl md:text-7xl mb-1 mb:mb-3 font-medium dark:text-white'>Bookshelf</h1><br />
+        <h1 className='text-3xl md:text-7xl mb-1 mb:mb-3 font-normal dark:text-white'>Bookshelf</h1><br />
         <h2 className='text-base max-w-xl mb-6 font-bold'>Here are some books that i loved reading:</h2>
           <section className="max-w-xl mx-auto text-left">  
              
