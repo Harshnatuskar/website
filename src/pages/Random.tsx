@@ -8,7 +8,7 @@ function Random(){
             <h1 className='text-3xl md:text-7xl mb-1 mb:mb-3 font-medium dark:text-white'>Random</h1> 
             <br />
             <h2 className='text-base max-w-xl mb-6 font-bold'>Here are some of my favourate quotes</h2>
-            <section className="max-w-xl mx-auto text-center">
+            <section className="max-w-xl mx-auto text-center font-semibold">
 
             <blockquote >
                <p >Nothing will make you happier than an ego death.</p>
