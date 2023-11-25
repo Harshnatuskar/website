@@ -58,8 +58,12 @@ function Random(){
             </blockquote>
             <br /><br />
 
-             
-             
+            <blockquote>
+                <p>I dont stop when i'm tired. I stop when i'm done.</p>
+                <cite>-David Goggins</cite>
+            </blockquote>
+            <br />
+            
                 
             </section>
  
