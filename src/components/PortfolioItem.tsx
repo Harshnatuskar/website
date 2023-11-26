@@ -3,12 +3,16 @@ import React from "react";
 interface PortfolioItemProps {
     title: string;
     imgUrl: string;
-    stack: string[];  
+    stack: string[]; 
+    link: string; 
 }
-function PortfolioItem({title,imgUrl,stack}:PortfolioItemProps){
+function PortfolioItem({title,imgUrl,stack,link}:PortfolioItemProps){
      
-    return(
-        <div className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden ">
+    return( 
+            <a href={link}
+             target="_blank"
+             rel="noopener noreferrer"
+             className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden"> 
             <img 
                 src={imgUrl}
                 alt="portfolio"
@@ -21,7 +25,7 @@ function PortfolioItem({title,imgUrl,stack}:PortfolioItemProps){
                     ))}
                 </p>
             </div>
-        </div>
+            </a> 
     )
 }
 

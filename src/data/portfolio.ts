@@ -1,18 +1,15 @@
-export default[
-    {
-        title:'Evaluate',
-        imgUrl:'/assets/black.png',
-        stack:['React','Reaflow']
-    },
+export default[ 
     {
         title:'Sakura Mochi',
         imgUrl:'/assets/black.png',
-        stack:['JUCE' ]
+        stack:['JUCE' ],
+        link:['https://github.com/Harshnatuskar/sakura-mochi']
     },
     {
         title:'Life in dots',
         imgUrl:'/assets/black.png',
-        stack:['Svelte' ]
+        stack:['Svelte' ],
+        link:['https://life-in-dots-seven.vercel.app/']
     },
 
 ]
