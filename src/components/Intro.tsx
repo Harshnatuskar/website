@@ -7,7 +7,7 @@ function Intro(){
             <section className='mb-6 text-medium font-bold'>
             I am currently contributing to the development of <a href="https://goast.ai/" target="_blank" className='hover:underline'>goast.ai</a>. <br /> 
             Actively coding, designing and testing to improve over applications. <br />   
-            I enjoy reading and writing sci-fi (you can follow up over Airchat,X)
+            I enjoy reading and writing sci-fi (you can follow up over <a href="https://www.getairchat.com/hurrrsh.">Airchat</a>, <a href="https://twitter.com/hurrrsh"></a>X)
             <br /> <br />
             <p>Things that i have built:</p>
             </section> 
