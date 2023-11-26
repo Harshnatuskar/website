@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Contact: React.FC = () => {
-  const emailId = 'harshnatuskar10@example.com';
+  const emailId = 'harshnatuskar10@gmail.com';
 
   const copyToClipboard = () => {
     navigator.clipboard.writeText(emailId).then(() => {
