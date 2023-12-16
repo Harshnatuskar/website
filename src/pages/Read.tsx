@@ -4,7 +4,7 @@ function Read(){
         <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
         <h1 className='text-3xl md:text-7xl mb-1 mb:mb-3 font-normal dark:text-white'>Bookshelf</h1><br />
         <h2 className='text-base max-w-xl mb-6 font-bold'>Here are some books that i loved reading:</h2>
-          <section className="max-w-xl mx-auto text-left font-semibold">  
+          <section className="max-w-xl mx-auto text-left font-semibold px-7 py-7">  
              
              
             <h3>⬥ The Alamanac of Naval Ravikant -Eric Jorgenson</h3>
@@ -13,6 +13,8 @@ function Read(){
             <h4 className="ml-4">The author discusses the process of achieving mastery in particular field, through examples of great historical people.</h4>
             <h3>⬥ If truth be told -Om Swami</h3> 
             <h4 className="ml-4">Mindblowing</h4>
+            <h3>⬥ Can't hurt me -David Goggins</h3> 
+            <h4 className="ml-4">"We're either getting better or we're getting worse". If you cannot get yourself to workout , read this.</h4>
             <h3>⬥ Courage is Calling -Ryan Holiday</h3>
             <h4 className="ml-4">"If we wish to be great , we must first learn how to conquer fear, or at least rise above it in the moments that matter" One of my favourate quotes in this book</h4>
             <h3>⬥ The Obstacle is the way -Ryan Holiday</h3>

@@ -4,10 +4,8 @@ function Intro(){
         <div className="flex items-center justify-center flex-col text-center pt-16 pb-6 ">
             <h1 className='text-2xl md:text-5xl mb-1 md:mb-3 font-normal dark:text-white '>Harsh Natuskar</h1>
             <br />
-            <section className='mb-6 text-medium font-bold'>
-            I am currently contributing to the development of <a href="https://goast.ai/" target="_blank" className='hover:underline'>goast.ai</a>. <br /> 
-            Actively coding, designing and testing to improve over applications. <br />   
-            I enjoy reading and writing sci-fi (you can follow up over <a href="https://www.getairchat.com/hurrrsh.">Airchat</a>, <a href="https://twitter.com/hurrrsh"></a>X)
+            <section className='mb-6 text-medium font-bold break-words'>
+            Hii, I am a designer and a developer currently working as an intern at <a href="https://goast.ai/" target="_blank" className='hover:underline'>goast.ai</a>.
             <br /> <br />
             <p>Things that i have built:</p>
             </section> 
