@@ -2,23 +2,29 @@
 import React from 'react'; 
 
 function Random(){ 
-      
+
     return ( 
-        <div className="flex items-center justify-center flex-col text-center pt-20 pb-6 -mb-40">
-            <h1 className='text-3xl md:text-7xl mb-1 mb:mb-3 font-medium dark:text-white'>Random</h1> 
+        <div className="flex items-center justify-center flex-col text-center pt-10 pb-6 -mb-40">
+            <h1 className='text-2xl md:text-5xl mb-1 mb:mb-3 font-medium dark:text-white'>Random</h1> 
             <br />
             <h2 className='text-base max-w-xl mb-6 font-bold'>Here are some of my favourate quotes</h2>
             <section className="max-w-xl mx-auto text-center font-semibold px-7 py-7">
 
             <blockquote >
-               <p >Nothing will make you happier than an ego death.</p>
-               <cite>-Sahil Lavingia</cite>
+                <p >Nothing will make you happier than an ego death.</p>
+                <cite>-Sahil Lavingia</cite>
             </blockquote>
             <br />
             
             <blockquote >
-               <p >Aim for the sun. That way if you miss, at least your arrow will fall far away, and the person it kills will likely be someone you don't know.</p>
-               <cite>-Brandon Sanderson</cite>
+                <p >A ship is safe in harbor, but that's not what ships are made for.</p>
+                <cite>-John A. Shedd</cite>
+            </blockquote>
+            <br />
+
+            <blockquote >
+                <p >Aim for the sun. That way if you miss, at least your arrow will fall far away, and the person it kills will likely be someone you don't know.</p>
+                <cite>-Brandon Sanderson</cite>
             </blockquote>
             <br />
 
@@ -56,7 +62,7 @@ function Random(){
                 <p>“Someday” is a disease that will take your dreams to the grave with you.</p>
                 <cite>-Timothy Ferriss</cite>
             </blockquote>
-            <br /><br />
+            <br />
 
             <blockquote>
                 <p>I dont stop when i'm tired. I stop when i'm done.</p>
@@ -66,7 +72,7 @@ function Random(){
             
                 
             </section>
- 
+
         </div>
     )
 }
