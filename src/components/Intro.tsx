@@ -6,6 +6,8 @@ function Intro(){
             <br />
             <section className='mb-6 text-medium font-bold break-words'>
             Hii, I am a designer and a developer currently working as an intern at <a href="https://goast.ai/" target="_blank" className='hover:underline'>goast.ai</a>.
+            <br />
+            I also like to read(and sometimes write) sci-fi fantasy and running.
             <br /> <br />
             <p>Things that i have built:</p>
             </section> 
