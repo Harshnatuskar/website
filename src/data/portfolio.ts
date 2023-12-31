@@ -1,5 +1,11 @@
 export default[ 
     {
+        title:'Better-board',
+        imgUrl:'/assets/black.png',
+        stack:['React' ],
+        link:'https://better-board.vercel.app/'
+    },
+    {
         title:'Life in dots',
         imgUrl:'/assets/black.png',
         stack:['Svelte' ],
