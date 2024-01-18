@@ -3,8 +3,6 @@ import Intro from "../components/Intro";
 import Portfolio from "../components/Portfolio"; 
 import Contact from "../components/Contact";
 
-
-
 function Home(){
     
     return(
@@ -14,7 +12,7 @@ function Home(){
             <Contact /> 
         </>
     );
-         
+
 }
 
 export default Home

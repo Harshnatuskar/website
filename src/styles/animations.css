@@ -1,0 +1,30 @@
+@keyframes slide-enter {
+    0% {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+  
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+  
+  [data-animate] {
+    --stagger: 0;
+    --delay: 150ms;
+    --start: 0ms;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    [data-animate] {
+      animation: slide-enter 1s both 1;
+      animation-delay: calc(var(--start) + var(--stagger) * var(--delay));
+    }
+  }
+  
+  [data-animation-controller='false'] [data-animate] {
+    animation: none;
+  }
+  
+

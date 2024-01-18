@@ -1,19 +1,19 @@
 export default[
     {
         title:'Weatherwiz',
-        imgUrl:'/assets/black.png',
+        imgUrl:'/assets/weather.png',
         stack:['Figma'],
         link:'https://www.behance.net/gallery/166586541/Weatherwiz'
     },
     {
-        title:'Mech-keys',
-        imgUrl:'/assets/black.png',
+        title:'zenith',
+        imgUrl:'/assets/zenith.png',
         stack:['Figma'],
-        link:'https://www.behance.net/gallery/156776209/mech-keys-ui'
+        link:'https://www.behance.net/gallery/156776209/zenith'
     }, 
     {
         title:'Grand tour',
-        imgUrl:'/assets/black.png',
+        imgUrl:'/assets/grandtour.png',
         stack:['Figma'],
         link:'https://www.behance.net/gallery/177448771/Grandtour'
     }, 

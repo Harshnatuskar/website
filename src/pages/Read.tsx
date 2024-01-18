@@ -1,12 +1,14 @@
 import React from "react";
+import "../styles/animations.css"
+
 function Read(){
     return ( 
         <div className="flex items-center justify-center flex-col text-center pt-10 pb-6">
         <h1 className='text-2xl md:text-5xl mb-1 mb:mb-3 font-normal dark:text-white'>Bookshelf</h1><br />
         <h2 className='text-base max-w-xl mb-6 font-bold'>Here are some books that i loved reading:</h2>
-          <section className="max-w-xl mx-auto text-left font-semibold px-7 py-7">  
-             
-             
+          <section data-animate className="slide-enter-content max-w-xl mx-auto text-left font-semibold px-7 py-7">  
+
+
             <h3>⬥ The Alamanac of Naval Ravikant -Eric Jorgenson</h3>
             <h4 className="ml-4">If i could only read a single non-fiction book for the rest of my life this would be it</h4>
             <h3>⬥ Mastery -Robert Greene</h3>
