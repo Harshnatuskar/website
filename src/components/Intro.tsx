@@ -20,13 +20,4 @@ function Intro(){
         </div>
 )}
 
-export default Intro
-
-        </div> 
-
-
-        
-    )
-}
-
 export default Intro;
