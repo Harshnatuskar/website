@@ -1,5 +1,6 @@
 //quotes and fav essays
 import React from 'react'; 
+import "../styles/animations.css"
 
 function Random(){ 
 
@@ -8,7 +9,7 @@ function Random(){
             <h1 className='text-2xl md:text-5xl mb-1 mb:mb-3 font-medium dark:text-white'>Random</h1> 
             <br />
             <h2 className='text-base max-w-xl mb-6 font-bold'>Here are some of my favourate quotes</h2>
-            <section className="max-w-xl mx-auto text-center font-semibold px-7 py-7">
+            <section data-animate className="slide-enter-content max-w-xl mx-auto text-center font-semibold px-7 py-7">
 
             <blockquote >
                 <p >Nothing will make you happier than an ego death.</p>

@@ -1,23 +1,20 @@
 export default[
     {
-        title:'Grand tour',
-        stack:['Figma'],
-        link:'https://www.behance.net/gallery/177448771/Grandtour'
-    },
-    {
-        title:'Zenith',
-        stack:['Figma'],
-        link:'https://www.behance.net/gallery/186752569/Zenith'
-    },
-    {
         title:'Weatherwiz',
+        imgUrl:'/assets/weather.png',
         stack:['Figma'],
         link:'https://www.behance.net/gallery/166586541/Weatherwiz'
     },
     {
-        title:'Mech-keys',
+        title:'zenith',
+        imgUrl:'/assets/zenith.png',
         stack:['Figma'],
-        link:'https://www.behance.net/gallery/156776209/mech-keys-ui'
+        link:'https://www.behance.net/gallery/156776209/zenith'
     }, 
-
+    {
+        title:'Grand tour',
+        imgUrl:'/assets/grandtour.png',
+        stack:['Figma'],
+        link:'https://www.behance.net/gallery/177448771/Grandtour'
+    }, 
 ]
