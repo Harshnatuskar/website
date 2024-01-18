@@ -9,7 +9,7 @@ export default[
         title:'zenith',
         imgUrl:'/assets/zenith.png',
         stack:['Figma'],
-        link:'https://www.behance.net/gallery/156776209/zenith'
+        link:'https://www.behance.net/gallery/186752569/Zenith'
     }, 
     {
         title:'Grand tour',
