@@ -10,7 +10,7 @@ function Intro(){
             <section data-animate className="slide-enter-content text-sm max-w-xl mb-6 font-bold">
             <p>
             Hey, I'm a designer and software developer.
-            I'm currently contributing to open source, and have previously worked as intern at <a className='underline' href='https://goast.ai' target="_blank">goast.ai</a>.
+            I'm currently contributing to open source, and have previously worked as an intern at <a className='underline' href='https://goast.ai' target="_blank">goast.ai</a>.
             When not immersed in code, you can find me delving into sci-fi and fantasy realms.
             </p>
             <br />
