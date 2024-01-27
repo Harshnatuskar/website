@@ -49,12 +49,14 @@ function Read(){
             <h4 className="ml-4">Has the best actions scenes in the entire cosmere.Immense character development.</h4>
             <h3>⬥ Edgedancer -Brandon Sanderson</h3>
             <h4 className="ml-4">A short read on side quests of a stormlight archive character.</h4>
-            <h3>⬥ Assasin's Apprentice -Robin Hobb</h3> 
+            <h3>⬥ The Farseer Triology -Robin Hobb</h3> 
             <h4 className="ml-4">Robin Hobb is the best fpp writer, this books is the proof.</h4>
             <h3>⬥ War Breaker -Brandon Sanderson</h3>
             <h4 className="ml-4">About fantasy planet based upon the power of breaths.</h4>
             <h3>⬥ Ocean at the end of the lane -Neil Gaiman</h3>
             <h4 className="ml-4">Nostalgic </h4>
+            <h3>⬥ The Tawny Man Triology -Robin Hobb</h3>
+            <h4 className="ml-4">Fantasy at it's peak </h4>
             <br />
              
             <h2 className='font-bold'>Here are some of my favourate essays:</h2>
