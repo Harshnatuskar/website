@@ -56,8 +56,7 @@ function Read(){
             <h3>⬥ Ocean at the end of the lane -Neil Gaiman</h3>
             <h4 className="ml-4">Nostalgic </h4>
             <h3>⬥ The Tawny Man Triology -Robin Hobb</h3>
-            <h4 className="ml-4">Fantasy at it's peak </h4>
-            <br />
+            <h4 className="ml-4">Fantasy at it's peak </h4> 
             <h3>⬥ Don't believe everything you think -Joseph Nguyen</h3>
             <h4 className="ml-4">Thought is not reality; yet it is through thought that our realities are created. </h4>
             <br />
