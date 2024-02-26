@@ -8,17 +8,26 @@ import Random from "../pages/Random";
 function NavBar() {
   return (
     <BrowserRouter>
-      <nav className="text-center pt-5 flex justify-center" >
-        <NavLink to="/home" className="hover:underline onactive:underline flex items-center mr-5 text-xl">
-          Home
-        </NavLink> 
-        <NavLink to="/read" className="hover:underline onactive:underline flex items-center mr-5 text-xl ">
-          Bookshelf
-        </NavLink> 
-        <NavLink to="/random" className="hover:underline onactive:underline flex items-center text-xl ">
-          Random
-        </NavLink>
-      </nav>
+      <nav className="flex justify-center items-center text-xl pt-5">
+      <NavLink
+      to="/home"
+      className="hover:underline onactive:underline mr-5" 
+      >
+      Home
+      </NavLink>
+      <NavLink
+      to="/read"
+      className="hover:underline onactive:underline mr-5" 
+      >
+      Bookshelf
+      </NavLink>
+      <NavLink
+      to="/random"
+      className="hover:underline onactive:underline" 
+      >
+      Random
+      </NavLink>
+    </nav>
 
       <Routes>
         <Route path="/" element={<Navigate to="/home" />} />
