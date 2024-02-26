@@ -6,9 +6,8 @@ function Random(){
 
     return ( 
         <div className="flex items-center justify-center flex-col text-center pt-10 pb-6 -mb-40">
-            <h1 className='text-2xl md:text-5xl mb-1 mb:mb-3 font-medium dark:text-white'>Random</h1> 
-            <br />
-            <h2 className='text-base max-w-xl mb-6 font-bold'>Here are some of my favourate quotes</h2>
+            <h1 className='text-2xl md:text-5xl mb-1 md:mb-3 font-normal dark:text-white'>Random</h1>
+            <h2 className='text-[1rem] font-bold'>Here are some of my favourate quotes</h2>
             <section data-animate className="slide-enter-content max-w-xl mx-auto text-center font-semibold px-7 py-7">
 
             <blockquote >
