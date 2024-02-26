@@ -60,7 +60,7 @@ function Read(){
             <h3>⬥ Don't believe everything you think -Joseph Nguyen</h3>
             <h4 className="ml-4">Thought is not reality; yet it is through thought that our realities are created. </h4>
             <br />
-             
+            
             <h2 className='font-bold'>Here are some of my favourate essays:</h2>
             <br />
             <section className='text-base'> 
@@ -71,8 +71,6 @@ function Read(){
           </section>
           
  
-
-             
         </div>
     )
 }

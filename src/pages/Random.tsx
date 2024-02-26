@@ -70,6 +70,12 @@ function Random(){
                 <cite>-David Goggins</cite>
             </blockquote>
             <br />
+
+            <blockquote>
+                <p>You are what you read.</p>
+                <cite>-Balaji Srinivasana</cite>
+            </blockquote>
+            <br />
             
                 
             </section>
