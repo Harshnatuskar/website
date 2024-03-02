@@ -59,7 +59,10 @@ function Read(){
             <h4 className="ml-4">Fantasy at it's peak </h4> 
             <h3>⬥ Don't believe everything you think -Joseph Nguyen</h3>
             <h4 className="ml-4">Thought is not reality; yet it is through thought that our realities are created. </h4>
+            <h3>⬥ The Anthology of Balaji -Eric Jorgenson</h3>
+            <h4 className="ml-4">A great collection of Balaji Srinivasan's insights.</h4>
             <br />
+
             
             <h2 className='font-bold'>Here are some of my favourate essays:</h2>
             <br />
