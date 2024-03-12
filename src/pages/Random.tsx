@@ -75,6 +75,12 @@ function Random(){
                 <cite>-Balaji Srinivasana</cite>
             </blockquote>
             <br />
+
+            <blockquote>
+                <p>The best revenge is not to be like that.</p>
+                <cite>-Marcus Aurelius</cite>
+            </blockquote>
+            <br />
             
                 
             </section>
