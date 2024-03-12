@@ -61,6 +61,8 @@ function Read(){
             <h4 className="ml-4">Thought is not reality; yet it is through thought that our realities are created. </h4>
             <h3>⬥ The Anthology of Balaji -Eric Jorgenson</h3>
             <h4 className="ml-4">A great collection of Balaji Srinivasan's insights.</h4>
+            <h3>⬥ Meditations -Marcus Aurelius</h3>
+            <h4 className="ml-4">Truly a timeless piece</h4>
             <br />
 
             
