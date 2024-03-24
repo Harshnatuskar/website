@@ -81,6 +81,12 @@ function Random(){
                 <cite>-Marcus Aurelius</cite>
             </blockquote>
             <br />
+                
+            <blockquote>
+                <p>If code scripts machines, media scripts human beings.</p>
+                <cite>-Balaji Srinivasan</cite>
+            </blockquote>
+            <br />
             
                 
             </section>
